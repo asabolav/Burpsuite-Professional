@@ -1,4 +1,3 @@
-git clone https://github.com/asabolav/Burpsuite-Professional.git 
 cd Burpsuite-Professional
 
 version="2026.1.5"
